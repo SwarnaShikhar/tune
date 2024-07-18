@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554678138045",
+    "project_id": "tune-firebase-backend",
+    "storage_bucket": "tune-firebase-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554678138045:android:0c690d721cc4f20115b3d4",
+        "android_client_info": {
+          "package_name": "com.tune.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATq_IgJqXi_zTLhtEDE2eWTj4ZnK-SkoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
